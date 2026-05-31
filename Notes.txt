@@ -6,10 +6,10 @@ NsLookup.io to find IP address of different domain
 
 what is web development?
 Building website for the Internet
-
+HTML is not case sensitive
 HTML Elements : standard elements that browser recognizes
 Paragraph  <p> </p>
-Heading h1 largest to h6 smallest     <h1> </h1>
+Heading  h1 largest to h6 smallest     <h1> </h1>
 Images        <img> </img>
 The component used to design the structure of website are called HTML tags.
 ! used to generte boiler code for web page
@@ -22,4 +22,7 @@ Used to add links to your page
 it can have absolute link or relative link
 absolute : link of website
 relative : link of file or path of file in our computer
+
+use ctrl + / to make code or line into comment
+MDN web dock is used as resources to leanrn about different programming language
 
