@@ -12,4 +12,14 @@ Paragraph  <p> </p>
 Heading h1 largest to h6 smallest     <h1> </h1>
 Images        <img> </img>
 The component used to design the structure of website are called HTML tags.
+! used to generte boiler code for web page
+
+HTML Attributes
+Attributes are used to add more information to the tag.
+
+Anchor element
+Used to add links to your page
+it can have absolute link or relative link
+absolute : link of website
+relative : link of file or path of file in our computer
 
