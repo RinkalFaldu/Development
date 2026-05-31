@@ -1,0 +1,3 @@
+What is Internet?
+Interconnected network of computers (system) around the world.
+each computer has unique address 
