@@ -1,3 +1,15 @@
 What is Internet?
 Interconnected network of computers (system) around the world.
 each computer has unique address 
+
+NsLookup.io to find IP address of different domain
+
+what is web development?
+Building website for the Internet
+
+HTML Elements : standard elements that browser recognizes
+Paragraph  <p> </p>
+Heading h1 largest to h6 smallest     <h1> </h1>
+Images        <img> </img>
+The component used to design the structure of website are called HTML tags.
+
