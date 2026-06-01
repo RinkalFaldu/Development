@@ -26,3 +26,20 @@ relative : link of file or path of file in our computer
 use ctrl + / to make code or line into comment
 MDN web dock is used as resources to leanrn about different programming language
 
+Inline or block element
+Heading element - block
+Paragraph - block
+Anchor tag - inline
+image element - inline 
+div - block 
+span - inline
+
+Div element : div is a container used to hold other HTML elements or group elements together
+Span Element : span is also a generic container 
+Hr Tag : horizontal rule element <hr/>, to break page
+sub & sup Tag : Superscript is power, 
+Semantic Markup: it is the markup that relates to the meaning of content 
+non semantic: name does not matches with it's work
+
+semantic markup : header, 
+
