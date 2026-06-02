@@ -41,5 +41,7 @@ sub & sup Tag : Superscript is power,
 Semantic Markup: it is the markup that relates to the meaning of content 
 non semantic: name does not matches with it's work
 
-semantic markup : header, 
+semantic markup : header, main, footer, nav, article, section, aside (use to show indirect related content)
+HTML Entities : start with & and end with ; e.g. &lt; (less than sign <), &amp; &gt, &quot; 
+Emmet : emmet.io to learn more about it
 
