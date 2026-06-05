@@ -37,7 +37,38 @@
             <lable for="color"> color input type: </lable>
             <input type="color" id="color">
         </div>
-        
+
+        <div>
+            <input type="checkbox" id="age" name="age" checked />
+            <lable for="age"> I am 18+</lable>
+        </div>
+
+        <div>
+            we can group radio button by keeping same name for all buttons <br>
+            <input type="radio" id="apple" name="fruit" value="apple"/>
+            <lable for="apple">Apple</lable>
+
+            <input type="radio" id="banana" name="fruit" value="banana"/>
+            <lable for="banana">Banana</lable>
+
+            <input type="radio" id="Orange" name="fruit" value="Orange"/>
+            <lable for="Orange">Orange</lable>
+
+            <input type="radio" id="Mango" name="fruit"/>
+            <lable for="Mango">Mango</lable>
+        </div>
+        <div>
+            select your profession
+            <select name="profession" id="profession">
+                <option value="student">Student</option>
+                <option value="developer">Developer</option>
+
+            </select>
+        </div>
+        <div>
+            <label for="volume">Select your volume level: </label>
+            <input type="range" id="volume" min="0" max="100" name="volume" step="10">
+        </div>
         <button>Submit</button>
         
     </from>
