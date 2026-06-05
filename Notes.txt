@@ -45,5 +45,9 @@ semantic markup : header, main, footer, nav, article, section, aside (use to sho
 HTML Entities : start with & and end with ; e.g. &lt; (less than sign <), &amp; &gt, &quot; 
 Emmet : emmet.io to learn more about it
 
-HTML 5: the term html 5 is essentially a bussword that refers to a set of modern web technilogies. this includes the html living standard, along with JavaSript APIs to enhance storage, multimedia, and hardware access. 
+HTML 5: the term html 5 is essentially a bussword that refers to a set of modern web technilogies. this includes the html living standard, along with JavaSript APIs to enhance storage,
+ multimedia, and hardware access. 
+
+ Table : can have <thead>, <tbody>, <tfoot>
+ colspan & rowspan : used to create cells which spans over multiple rows or columns
 
