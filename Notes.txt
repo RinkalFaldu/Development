@@ -51,3 +51,6 @@ HTML 5: the term html 5 is essentially a bussword that refers to a set of modern
  Table : can have <thead>, <tbody>, <tfoot>
  colspan & rowspan : used to create cells which spans over multiple rows or columns
 
+ Forms Element
+ 
+
