@@ -52,5 +52,9 @@ HTML 5: the term html 5 is essentially a bussword that refers to a set of modern
  colspan & rowspan : used to create cells which spans over multiple rows or columns
 
  Forms Element
+
+ CSS : Cascading style sheets
+ - it is language that is used to describe the style of a document
+ inline style
  
 
