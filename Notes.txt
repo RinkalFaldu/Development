@@ -56,5 +56,13 @@ HTML 5: the term html 5 is essentially a bussword that refers to a set of modern
  CSS : Cascading style sheets
  - it is language that is used to describe the style of a document
  inline style
+
+ Text Properties : 
+ text-align
+ font - weight
+ text-decoration
+ line-height
+ letter-spacing
+ font-size
  
 
