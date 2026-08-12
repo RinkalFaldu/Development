@@ -58,11 +58,20 @@ HTML 5: the term html 5 is essentially a bussword that refers to a set of modern
  inline style
 
  Text Properties : 
- text-align
- font - weight
- text-decoration
+ text-align : align with respect to parent element  left/start, right/end, center, justify
+font - weight  : normal (400), bold (700), 100 (100-900), bolder, lighter   
+ text-decoration : underline, overline, linethrough e.g. wavy red underline
  line-height
  letter-spacing
  font-size
+ font-family : arial, avant grade, didot, sans-serif (this is different font family, and we can also write different font family to style same thing)
+
+ font size units in css 
+ Absolute  :px, pt, pc, cm, mm, in
+ Relative : %, em, rem, ch, vh, vw + many more
+
+ pixels (px)
+ most commonly used absolute unit 96px = 1 inch , not suitable for responsive website
+
  
 
