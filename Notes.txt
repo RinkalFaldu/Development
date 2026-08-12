@@ -73,5 +73,14 @@ font - weight  : normal (400), bold (700), 100 (100-900), bolder, lighter
  pixels (px)
  most commonly used absolute unit 96px = 1 inch , not suitable for responsive website
 
+ Selectors 
+ universal Selectors : *
+ Element selectors : Selects all elements of the same type h1, p etc
+ ID selector : #idname
+ Class Selector .classname
+ 
+
+
+
  
 
